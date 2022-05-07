@@ -76,7 +76,7 @@ All of the italicized letters: F-I-L-L-S B-A-L-L-O-T-S N-E-C-K-S which can be se
 Location:**Laramie Park** Status of Julia:**Deceased**
 
 ## Step 5
-The fifth step was a bit more relaxing than the fourth step but still took some work to solve. The task was to analyze a note left behind by the killer, identify an email address being used and to social engineer them into meeting an undercover agent. 
+The fifth step was a bit more relaxing than the fourth step but still took some work to solve. The task was to analyze a note left behind by the killer, identify an email address being used and to social engineer the killer into meeting an undercover agent. 
 
 **The Note:**
 
