@@ -1,5 +1,6 @@
 # Downtown-Murderer-Writeup
-OSINT(Open Source Intelligence) Capture The Flag competition writeup
+OSINT(Open Source Intelligence) Capture The Flag Competition
+https://hacktoria.com/monthly-ctf/downtown-murderer/ **<-- Link to challenge**
 
 ## Step 1
 In this initial step, we are briefed and given a summary of the police reports that contain the first set of victims. The task asks us "What do all the victims have in common?" Looking through the case files I initially noticed that all the victims have been killed peculiarly and violently and that they all lived within proximity of each other. However, those initial findings are not what ties all the six victims together. In step one, we're not trying to identify the killer’s trademark but their motive, which happens to be that all six victims have different colored eyes known as heterochromia. 
