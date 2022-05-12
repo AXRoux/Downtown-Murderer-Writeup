@@ -92,3 +92,15 @@ The killer is obviously using the alias of a female named **Marlene Esther-Obdam
 ![image](https://user-images.githubusercontent.com/103153079/167227497-7af9ffba-56d7-4b5c-821f-0c917c0cc413.png)
 
 * 2 - I emailed the killer and social engineered them to meet up with me all of the details of the time and place were arranged by the killer but they did not know that I had already uncovered their trail and that they would be meeting with an undercover agent.  
+
+## Step 6 - UNSOLVED FULLY
+Step 6 -UNABLE TO FULLY SOLVE-
+
+The last step is finding the hiding spot of the Killer. I am tasked with cracking the password of a zip file that has information regarding a plane ticket that was purchased by the killer. The password to the zip-protected file can be opened using something that I already know about the killer. As most passwords are often associated with things close to us sort of like pets or hobbies. The password to the zip-protected file ended up being a combination name of the killer’s pets that was posted on Twitter.
+
+![image](https://user-images.githubusercontent.com/103153079/168132155-3420da87-a5e2-48a0-a493-3f071113927f.png)
+
+Password: **MisterBootsCaptainFluffyMrsMittens**
+
+As for the rest of step 6 it's inconclusive. 
+
