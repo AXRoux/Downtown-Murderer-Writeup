@@ -102,5 +102,5 @@ The last step is finding the hiding spot of the Killer. I am tasked with crackin
 
 Password: **MisterBootsCaptainFluffyMrsMittens**
 
-As for the rest of step 6 it's inconclusive. 
+As for the rest of step 6 it's inconclusive. You can view hacktoria.com for more details.
 
